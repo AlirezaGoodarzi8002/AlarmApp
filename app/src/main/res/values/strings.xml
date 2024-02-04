@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alarm Management</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="repeat">Repeat</string>
+    <string name="AlarmNameText">Alarm Name</string>
+    <string name="play_time">Alarm plays in %d seconds</string>
+    <string name="please_grant_permission_first">Please grant access to files first</string>
+    <string name="ignore_battery_optimization">Ignore battery optimization</string>
+    <string name="display_over_apps">Display over other apps</string>
+</resources>
